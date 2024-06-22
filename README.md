@@ -1,15 +1,10 @@
 # Olá! Me chamo Bianca Borges 👋
 
-
-
 ## 🚀 Sobre Mim
 
-- 🌱 Atualmente estou cursando Engenharia de Software no In
+- 🌱 Atualmente estou cursando Engenharia de Software no Instituto de Tecnologia e Liderança
 - 👯 Estou procurando colaborar em [tipos de projetos ou áreas de interesse].
-- 🤔 Estou procurando ajuda com [alguma área ou tecnologia onde você precisa de suporte].
-- 💬 Pergunte-me sobre [áreas de especialidade ou tecnologias nas quais você é bom].
-- 📫 Como me encontrar: [email ou outra forma de contato].
-- ⚡ Curiosidade: [alguma curiosidade interessante sobre você].
+- 📫 Como me encontrar: contato.biancalins@gmail.com
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -26,20 +21,17 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Biabborges&show_icons=true&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Biabborges&layout=compact&theme=radical)
 
-## 📂 Projetos
 
-### [Projeto 1](https://github.com/SeuUsuario/Projeto1)
-[Descrição breve do projeto. Inclua as tecnologias usadas e o objetivo do projeto.]
+<p align="left">
+  💌 Entre em contato comigo:⤵️
+</p>
 
-### [Projeto 2](https://github.com/SeuUsuario/Projeto2)
-[Descrição breve do projeto. Inclua as tecnologias usadas e o objetivo do projeto.]
-
-### [Projeto 3](https://github.com/SeuUsuario/Projeto3)
-[Descrição breve do projeto. Inclua as tecnologias usadas e o objetivo do projeto.]
-
-## 🔗 Links
-
-- [Portfólio](https://seusite.com)
-- [LinkedIn](https://linkedin.com/in/seuusuario)
-- [Twitter](https://twitter.com/seuusuario)
-- [Blog](https://seublog.com)
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bianca-borges-969586206/" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+</a>
+</p>
