@@ -2,8 +2,7 @@
 
 ## 🚀 Sobre Mim
 
-- 🌱 Atualmente estou cursando Engenharia de Software no Instituto de Tecnologia e Liderança
-- 👯 Estou procurando colaborar em [tipos de projetos ou áreas de interesse].
+- 🌱 Atualmente estou cursando Engenharia de Software no Instituto de Tecnologia e Liderança (Inteli)
 - 📫 Como me encontrar: contato.biancalins@gmail.com
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -27,11 +26,7 @@
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bianca-borges-969586206/" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
 </a>
 </p>
