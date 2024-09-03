@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre Mim
 
-- 🌱 Atualmente estou cursando Engenharia de Software no Instituto de Tecnologia e Liderança (Inteli)
+- 🌱 Engenheira de Software em formação no Inteli, com foco em Desenvolvimento Front-end e Design UX/UI. Experiência prática em projetos de inovação digital e pesquisa, utilizando tecnologias como JavaScript, React.js, C#, Python e AWS. Apaixonada por criar soluções que conectam tecnologia e design para entregar experiências únicas. Sempre buscando desafios que permitam expandir conhecimentos em tecnologias emergentes e contribuir para o crescimento de equipes e organizações.
 - 📫 Como me encontrar: contato.biancalins@gmail.com
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -11,7 +11,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -20,10 +19,6 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Biabborges&show_icons=true&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Biabborges&layout=compact&theme=radical)
 
-
-<p align="left">
-  💌 Entre em contato comigo:⤵️
-</p>
 
 <p align="left">
   <a href="#" title="LinkedIn">
